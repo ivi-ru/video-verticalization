@@ -1,0 +1,11 @@
+.debug/
+.venv/
+.pytest_cache/
+__pycache__/
+data/
+data_preparation/
+evaluation_results/
+output/
+video_verticalization/__pycache__/
+verticalization_dataset/
+cache/
