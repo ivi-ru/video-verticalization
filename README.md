@@ -32,7 +32,7 @@ arguments:
   --visualize           If set, save cropped video along with crop coordinates.
 ```
 
-Скрипт, котторый прогоняет вертикализацию находится в файле `video_verticalization/verticalize.py`.
+Скрипт, который подсчитывает метрики на валидационном датасете, находится в файле `video_verticalization/evaluate.py`.
 
 ```bash
 evaluate [-h] 
